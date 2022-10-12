@@ -1,2 +1,2 @@
 # startup-of-the-year
-ztm startup website
+zero-to-mastery startup website
